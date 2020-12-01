@@ -2,8 +2,8 @@
 // Created by User on 10/9/2020.
 //
 
-#include "semantic_analysis.h"
-#include "asm.h"
+#include "MIPS_semantic_analysis.h"
+#include "MIPS_assembly.h"
 
 
 void Semantic_Analysis::doLabels(std::vector<std::vector<Token> > &lines) {
