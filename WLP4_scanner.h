@@ -19,7 +19,6 @@
 #include <ostream>
 
 /*
- * C++ Starter code for CS241 A3
  * All code requires C++14, so if you're getting compile errors make sure to
  * use -std=c++14.
  *
