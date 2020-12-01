@@ -9,16 +9,15 @@
 #include <utility>
 #include <set>
 #include <array>
-#include "scanner.h"
+#include "MIPS_scanner.h"
 
 /*
- * C++ Starter code for CS241 A3
  * All code requires C++14, so if you're getting compile errors make sure to
  * use -std=c++14.
  *
  * This file contains helpers for asm.cc and you don't need to modify it.
  * Furthermore, while this code may be helpful to understand starting with
- * the DFA assignments, you do not need to understand it to write the assembler.
+ * the DFA, you do not need to understand it to write the assembler.
  */
 
 Token::Token(Token::Kind kind, std::string lexeme):
