@@ -29,9 +29,12 @@
 using namespace std;
 
 /*
+ * C++ Starter code for CS241 A3
+ * All code requires C++14, so if you're getting compile errors make sure to
+ * use -std=c++14.
  *
- * This file contains helpers for asm.cc
- * Its comments contain important information and you should
+ * This file contains helpers for asm.cc and should not need to be modified by
+ * you. However, its comments contain important information and you should
  * read the entire file before you start modifying asm.cc.
  */
 
