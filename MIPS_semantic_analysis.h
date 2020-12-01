@@ -5,7 +5,7 @@
 #ifndef CS241_SEMANTIC_ANALYSIS_H
 #define CS241_SEMANTIC_ANALYSIS_H
 
-#include "scanner.h"
+#include "MIPS_scanner.h"
 #include <map>
 
 class Semantic_Analysis {
