@@ -8,7 +8,7 @@
 
 #include <vector>
 #include <string>
-#include "scanner.h"
+#include "MIPS_scanner.h"
 #include <map>
 
 class Parser {
