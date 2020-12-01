@@ -3,7 +3,7 @@
 //
 
 #include <iostream>
-#include "asm.h"
+#include "MIPS_assembly.h"
 
 
 int Parser::getLineCode(std::vector<Token> tokenList, int lineNumber){
